@@ -13,6 +13,10 @@ DCMS 是以内容营销建模为核心，再结合与数据有关的展示模板
 
 ## 商业逻辑
 
+![](https://images.contentstack.io/v3/assets/blt23180bf2502c7444/blt6d2cc25aab40f670/5d65166c51651427da8be32f/How_CS_works.png)
+
+> 图片来源于 https://www.contentstack.com/docs/overview/how-contentstack-works/
+
 * 内容营销建模：高智力知识成果的复制
 * 内容营销表现方式：简化客户对内容营销方式的理解
 * 内容营销自动分发：直接的引流
@@ -26,6 +30,10 @@ DCMS 是以内容营销建模为核心，再结合与数据有关的展示模板
 * 提供一套 SaaS 生产平台
 * 发布与生产脱离
 
+## 对标
+
+* Contentstack
+* 
 
 ## 问题
 
