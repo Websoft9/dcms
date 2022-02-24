@@ -32,8 +32,8 @@ DCMS 是以内容营销建模为核心，再结合与数据有关的展示模板
 
 ## 对标
 
-* Contentstack
-* 
+* [Contentstack](https://www.contentstack.com)
+* [Softr](https://www.softr.io/product-features)
 
 ## 问题
 
