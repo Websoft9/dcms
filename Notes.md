@@ -36,6 +36,11 @@ DCMS 是以内容营销建模为核心，再结合与数据有关的展示模板
 * [Softr](https://www.softr.io/product-features)
 * [DotCMS](https://dotcms.com/solutions/intranet-portal)
 
+## 集成
+
+* 各种RDS系统
+* Headless: [Contentful](https://www.contentful.com/) [graphcms](https://graphcms.com/) ...
+
 ## 问题
 
 #### 应该给用户提供什么样组件？
